@@ -12,8 +12,8 @@ Tenho interesse nas áreas de:
 
 Projetos atuais
 
-### SEMEAR
+### Guia
 
 Extracurricular
 
-![Texto Alternativo](https://linkDaimagem.jpg)
+![Aguia](assets/33689.jpg)
