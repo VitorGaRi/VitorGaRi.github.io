@@ -1,4 +1,4 @@
-# VitorGaRi.github.io
+# VitorGaRi
 Olá, meu nome é Vitor Ribeiro, sou um estudante de engenharia mecatrônica na EESC-USP. Sou natural de Goiânia-GO e atualmente moro em São Carlos-SP. 
 
 Tenho interesse nas áreas de:
@@ -7,3 +7,13 @@ Tenho interesse nas áreas de:
 - Drones autônomos e enxames
 - Marketing e divulgação ciêntífica
 - Gestão de pessoas e processos
+
+## Projetos
+
+Projetos atuais
+
+### SEMEAR
+
+Extracurricular
+
+![Texto Alternativo](https://linkDaimagem.jpg)
